@@ -1,0 +1,2 @@
+DEMO_USER = "demo"
+DEMO_PASS = "12345"
