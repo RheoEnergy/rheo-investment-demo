@@ -1,4 +1,6 @@
-# Rheo · Energy Capital System — Frontend PoC
+# Rheo · Energy Capital System — Frontend PoC 
+
+Prototype: https://youtu.be/S9eHrZjEKx8
 
 A single-page proof-of-concept that makes energy infrastructure feel as
 understandable and investable as a modern financial platform. Built with
