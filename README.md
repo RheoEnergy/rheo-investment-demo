@@ -2,7 +2,7 @@
 
 A working proof of concept demonstrating how energy infrastructure can become measurable, intelligible, and investable through a modern financial interface.
 
-The demo showcases Rheo's approach to connecting energy data, economic intelligence, and capital — turning real-world energy activity into actionable financial insight.
+The demo showcases Rheo's approach to connecting energy data, economic intelligence, and capital - turning real-world energy activity into actionable financial insight.
 
 # Product Demo: https://youtu.be/S9eHrZjEKx8
 
