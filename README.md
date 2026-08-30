@@ -2,9 +2,8 @@
 
 Prototype: https://youtu.be/S9eHrZjEKx8
 
-A single-page proof-of-concept that makes energy infrastructure feel as
-understandable and investable as a modern financial platform. Built with
-**vanilla HTML5, CSS3 and ES6 modules** — no build step, no framework.
+A single-page proof of concept demonstrating how energy infrastructure can be represented through the clarity and accessibility of a modern financial platform. Built as a lightweight, self-contained application using **HTML5, CSS3, and modular ES6 JavaScript**, with a deliberately minimal runtime architecture for rapid prototyping and transparent technical review.
+
 
 > Consumer-grade simplicity. Institutional-grade intelligence.
 
