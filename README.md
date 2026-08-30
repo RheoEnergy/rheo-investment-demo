@@ -46,8 +46,6 @@ Energy-backed value (Power Credits, settlements, asset ownership) maps naturally
 to on-chain records. Point the relevant methods at an indexer or RPC:
 
 ```js
-// Power Credits balance from an ERC-20-style contract via a read RPC
-async getPowerCredits() {
   const balance = await contract.balanceOf(account);         // on-chain read
   const series  = await indexer.creditHistory(account);      // subgraph/indexer
   return { balance: Number(balance), series, conversions: ... };
