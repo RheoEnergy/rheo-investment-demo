@@ -1,4 +1,14 @@
-# Data layer & production swap guide
+# Rheo Product Demo
+
+A working proof of concept demonstrating how energy infrastructure can become measurable, intelligible, and investable through a modern financial interface.
+
+The demo showcases Rheo's approach to connecting energy data, economic intelligence, and capital — turning real-world energy activity into actionable financial insight.
+
+# Product Demo: https://youtu.be/S9eHrZjEKx8
+
+A single-page proof of concept demonstrating how energy infrastructure can be represented through the clarity and accessibility of a modern financial platform. Built as a lightweight, self-contained application using HTML5, CSS3, and modular ES6 JavaScript, with a deliberately minimal runtime architecture
+
+#Data layer & production swap guide
 
 All sample data lives in `/data` as **JSON** (nested portfolio/asset/network data)
 and **CSV** (flat ledger/sensor time-series). The application never reads these
