@@ -135,6 +135,5 @@ No structural rewrite is needed — the design system already lives in tokens.
 
 ## Notes
 
-- Dark-mode-first, luminescent glass-gradient theme.
-- Allocation flow in the Marketplace is a **simulation** — no transactions occur.
+- Allocation flow in the Marketplace is a **simulation** 
 - All numbers are illustrative sample data.
